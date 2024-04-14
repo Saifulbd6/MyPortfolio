@@ -1,0 +1,117 @@
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/vendor/css/bootstrap.min.css">
+<!--// Magnific Popup //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/vendor/css/magnific.popup.min.css">
+<!--// Animate Css //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/vendor/css/animate.min.css">
+<!--// Owl Carousel //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/vendor/css/owl.carousel.min.css">
+<!--// Owl Carousel Default //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/vendor/css/owl.carousel.default.min.css">
+<!--// Font Awesome //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/fonts/font_awesome/css/all.css">
+<!--// Flat Icons //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/fonts/flat_icons/flaticon.css">
+<!--// Theme Main Css //-->
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/css/style.css">
+
+<link rel="stylesheet" href="https://sujon.softtopit.com/frontend/assets/css/custome.css">
+
+<style>
+    .image_animate {
+        animation: up-down 2s ease-in-out infinite alternate-reverse both;
+        }
+        @-webkit-keyframes up-down {
+            0% {
+                transform: translateY(10px);
+            }
+            100% {
+                transform: translateY(-10px);
+            }
+        }
+        @keyframes  up-down {
+            0% {
+                transform: translateY(10px);
+            }
+            100% {
+                transform: translateY(-10px);
+            }
+        }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.js"></script>
+
+<script>
+    $(function () {
+            });
+</script>
+
+<script>
+    $(function () {
+            });
+</script>
+<!--// Hero Start //-->
+<section class="intro-hero-section" data-scroll-index="0" style="height: 100vh">
+    <div class="container ">
+        <div class="row  h-100 align-items-center justify-content-center">
+            <div class="col-12 text-center">
+                <h4 class="intro-hero-title pb-0 mb-5">Error! 404<span class="mb-0">Page Not Found! </span></h4>
+                <div class="hero-btn">
+                    <a href="https://sujon.softtopit.com" class="white-btn">
+                        <span class="text">Back To Home</span>
+                        <span class="icon"><i class="fas fa-arrow-right"></i></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--// Hero Section End  //-->
+<!--// JQuery //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/jquery.min.js"></script>
+<!--// Popper //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/popper.min.js"></script>
+<!--// Bootstrap //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/bootstrap.min.js"></script>
+<!--// Images Loaded Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/images.loaded.min.js"></script>
+<!--// Wow Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/wow.min.js"></script>
+<!--// Magnific Popup //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/magnific.popup.min.js"></script>
+<!--// Waypoint Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/waypoint.min.js"></script>
+<!--// Counter Up Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/counter.up.min.js"></script>
+<!--// JQuery Easing Functions //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/jquery.easing.min.js"></script>
+<!--// Owl Carousel //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/owl.carousel.min.js"></script>
+<!--// Form Validate //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/validate.min.js"></script>
+<!--// Form Validate //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/custom.select.plugin.js"></script>
+<!--// Scroll It //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/scrollit.min.js"></script>
+<!--// Isotope Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/isotope.min.js"></script>
+<!--// Particles Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/vendor/js/particles.js"></script>
+<!--// Main Js //-->
+<script src="https://sujon.softtopit.com/frontend/assets/js/main.js"></script>
+
+<script>
+     $(document).ready(function(){
+            $(".alert").delay(6000).slideUp(300);
+    });
+</script>
+
+<script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.17.2/dist/sweetalert2.min.js"></script>
+
